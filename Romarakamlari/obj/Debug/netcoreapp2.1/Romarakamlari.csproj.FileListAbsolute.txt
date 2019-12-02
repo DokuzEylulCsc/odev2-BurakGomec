@@ -1,0 +1,11 @@
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\bin\Debug\netcoreapp2.1\Romarakamlari.deps.json
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\bin\Debug\netcoreapp2.1\Romarakamlari.runtimeconfig.json
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\bin\Debug\netcoreapp2.1\Romarakamlari.runtimeconfig.dev.json
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\bin\Debug\netcoreapp2.1\Romarakamlari.dll
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\bin\Debug\netcoreapp2.1\Romarakamlari.pdb
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\obj\Debug\netcoreapp2.1\Romarakamlari.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\obj\Debug\netcoreapp2.1\Romarakamlari.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\obj\Debug\netcoreapp2.1\Romarakamlari.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\obj\Debug\netcoreapp2.1\Romarakamlari.AssemblyInfo.cs
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\obj\Debug\netcoreapp2.1\Romarakamlari.dll
+C:\Users\burak\source\repos\Romarakamlari\Romarakamlari\obj\Debug\netcoreapp2.1\Romarakamlari.pdb
